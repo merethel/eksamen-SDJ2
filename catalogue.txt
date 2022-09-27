@@ -1,0 +1,56 @@
+Accountant has entered treasure room (reader access)
+Fast worker found a Wooden Coin with value 1
+Accountant counted the valuables and found: []
+Accountant has left treasure room (reader release)
+Fast worker found a Cow with value 10
+king has entered treasure room (writer access)
+Party canceled ;(
+king has left treasure room (writer release)
+-----Gem Transporter removed a : Wooden Coin-----
+transporter has entered treasure room (writer access)
+transporter has left treasure room (writer release)
+Fast worker found a Wooden Coin with value 1
+Fast worker found a Wooden Coin with value 1
+Accountant has entered treasure room (reader access)
+Fast worker found a Cow with value 10
+Accountant counted the valuables and found: []
+Accountant has left treasure room (reader release)
+Fast worker found a Wooden Coin with value 1
+king has entered treasure room (writer access)
+Party canceled ;(
+king has left treasure room (writer release)
+-----Gem Transporter removed a : Cow-----
+transporter has entered treasure room (writer access)
+transporter has left treasure room (writer release)
+Fast worker found a Cow with value 10
+Fast worker found a Cow with value 10
+Slow worker found a Diamond with value 1000
+Dumb worker found a Cow with value 10
+-----Gem Transporter removed a : Wooden Coin-----
+king has entered treasure room (writer access)
+Party canceled ;(
+-----Gem Transporter removed a : Cow-----
+king has left treasure room (writer release)
+transporter has entered treasure room (writer access)
+transporter has left treasure room (writer release)
+Fast worker found a Wooden Coin with value 1
+Fast worker found a Wooden Coin with value 1
+Accountant has entered treasure room (reader access)
+Fast worker found a Cow with value 10
+-----Gem Transporter removed a : Cow-----
+-----Gem Transporter removed a : Diamond-----
+-----Gem Transporter removed a : Cow-----
+Fast worker found a Cow with value 10
+Accountant has entered treasure room (reader access)
+Fast worker found a Wooden Coin with value 1
+Accountant counted the valuables and found: []
+Accountant has left treasure room (reader release)
+Fast worker found a Wooden Coin with value 1
+king has entered treasure room (writer access)
+Party canceled ;(
+king has left treasure room (writer release)
+-----Gem Transporter removed a : Wooden Coin-----
+-----Gem Transporter removed a : Wooden Coin-----
+transporter has entered treasure room (writer access)
+transporter has left treasure room (writer release)
+Fast worker found a Wooden Coin with value 1
