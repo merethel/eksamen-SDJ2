@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVVM + observer/MVVM + observer.iml" filepath="$PROJECT_DIR$/MVVM + observer/MVVM + observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumer + proxy/ProducerConsumer + proxy.iml" filepath="$PROJECT_DIR$/ProducerConsumer + proxy/ProducerConsumer + proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI + adapter/RMI + adapter.iml" filepath="$PROJECT_DIR$/RMI + adapter/RMI + adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadersWriters + Singleton/ReadersWriters + Singleton.iml" filepath="$PROJECT_DIR$/ReadersWriters + Singleton/ReadersWriters + Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sockets + Strategy/Sockets + Strategy.iml" filepath="$PROJECT_DIR$/Sockets + Strategy/Sockets + Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State pattern + JUnit/State pattern + JUnit.iml" filepath="$PROJECT_DIR$/State pattern + JUnit/State pattern + JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eksamen.iml" filepath="$PROJECT_DIR$/.idea/eksamen.iml" />
+    </modules>
+  </component>
+</project>
